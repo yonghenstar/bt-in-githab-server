@@ -1,0 +1,14 @@
+{
+  "name": "我的代码空间",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/workspace",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.pytho
+        "ms-dotnettools.csharp"
+      ]
+    }
+  }
+}
